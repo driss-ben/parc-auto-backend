@@ -1,0 +1,17 @@
+Fournisseurs
+{
+    "id": 1,
+    "nom":"fournisseur  1",
+    "telephone":"+212 678-760005",
+    "adresse":"rue 102, bloc 44",
+    "email":"f2@gmqil.com",
+    "ville":"TANGER"
+}
+{
+    "id": 2,
+    "nom":"fournisseur  2",
+    "telephone":"+212 678-760005",
+    "adresse":"rue 12, bloc 44",
+    "email":"f2@gmqil.com",
+    "ville":"AGADIR"
+}
